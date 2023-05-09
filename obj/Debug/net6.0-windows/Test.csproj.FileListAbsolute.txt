@@ -1,0 +1,39 @@
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\Test.exe
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\Test.deps.json
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\Test.dll
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\Test.pdb
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\System.Speech.dll
+F:\Study material\Preparation\JOB Test\Test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.csproj.AssemblyReference.cache
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\ScreenReaderProject.Form1.resources
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.csproj.GenerateResource.cache
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.csproj.CopyComplete
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.dll
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\refint\Test.dll
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.pdb
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+F:\Study material\Preparation\JOB Test\Test\obj\Debug\net6.0-windows\ref\Test.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\Test.exe
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\Test.deps.json
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\Test.runtimeconfig.json
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\Test.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\Test.pdb
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\System.Speech.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\WindowsInput.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.csproj.AssemblyReference.cache
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.AssemblyInfoInputs.cache
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.AssemblyInfo.cs
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.csproj.CoreCompileInputs.cache
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.csproj.CopyComplete
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\refint\Test.dll
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.pdb
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\Test.genruntimeconfig.cache
+F:\Study material\Preparation\JOB Test\Aptitude Test\obj\Debug\net6.0-windows\ref\Test.dll

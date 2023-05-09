@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c88KQ4D/K3NLQirUp7JTRD5n0/NfFL/RT78TKkfzHV2K0SfXVwe2Eqa3OKvGlyg0Ot5AyVzyDqI2urz42nqaZw==",
+  "success": true,
+  "projectFilePath": "F:\\Study material\\Preparation\\JOB Test\\Aptitude Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Msi\\.nuget\\packages\\system.speech\\8.0.0-preview.3.23174.8\\system.speech.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\Msi\\.nuget\\packages\\windowsinput\\6.4.1\\windowsinput.6.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
